@@ -1,0 +1,21 @@
+*{
+    background-color: grey;   
+}
+
+.box1{
+    color: white;
+    background-color: rgb(61, 164, 104);
+}
+
+.box2{
+    color: rgb(19, 19, 19);
+    background-color: rgb(64, 126, 126);
+}
+.box1, .box2{
+    height: 300px;
+    width: 300px;
+    align-content: center;
+    text-align: center;
+    float: left;
+    margin: 30px;
+}
